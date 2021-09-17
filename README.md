@@ -3,11 +3,21 @@ Python code which pulls the data from coingecko.com and filters out top N crypt
 ## Installation
 PyPI
 
-<code>pip install pycoingecko</code>
+```bash
+pip install pycoingecko
+```
 
 or from source
 
-<code>git clone https://github.com/man-c/pycoingecko.git>cd pycoingecko
-python3 setup.py install</code>
+```bash
+git clone https://github.com/man-c/pycoingecko.git>
+cd pycoingecko
+python3 setup.py install
+```
+
 ## Usage
+```python
+from pycoingecko import CoinGeckoAPI
+cg = CoinGeckoAPI()
+```
 ## Examples
