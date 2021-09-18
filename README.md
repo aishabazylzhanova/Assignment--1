@@ -15,7 +15,7 @@ git clone https://github.com/man-c/pycoingecko.git>
 cd pycoingecko
 python3 setup.py install
 ```
-Then you eed to download the Python file named "Code.py" in srs folder. 
+Then you need to download the Python file named "Code.py" in srs folder. 
 ## Usage
 
 ## Examples
