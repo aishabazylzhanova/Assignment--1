@@ -17,5 +17,13 @@ python3 setup.py install
 ```
 Then you need to download the Python file named "Code.py" in srs folder. 
 ## Usage
+To use this program you need to open terminal and open path to downloaded file.
 
+```bash
+cd path/to/Code.py/file 
+```
+Then you need to run code by Python
+```bash
+
+```
 ## Examples
